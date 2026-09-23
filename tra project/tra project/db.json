@@ -1,0 +1,45 @@
+{
+  "students": [
+    {
+      "studentId": "VUCSE001",
+      "name": "jaswitha",
+      "email": "sai@gmail.com",
+      "phone": "6302768819",
+      "age": 19,
+      "course": "B.Tech",
+      "city": "Eluru",
+      "id": "VUCSE001"
+    },
+    {
+      "studentId": "VUCSE003",
+      "name": "poojitha",
+      "email": "pooji@gmail.com",
+      "phone": "6302541866",
+      "age": 19,
+      "course": "B.Tech",
+      "city": "Darsi",
+      "id": "VUCSE003"
+    },
+    {
+      "studentId": "VUCSE004",
+      "name": "jashma",
+      "email": "jashma@gmail.com",
+      "phone": "7732995461",
+      "age": 19,
+      "course": "ECE",
+      "city": "Guntur",
+      "id": "HXVcdhpsuMk"
+    },
+    {
+      "studentId": "VUCSE005",
+      "name": "Jeet",
+      "email": "jeet@gmail.com",
+      "phone": "6304485216",
+      "age": 20,
+      "course": "MTECH",
+      "city": "vijayawada",
+      "id": "6CK8nCKZKS0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
